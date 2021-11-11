@@ -22,9 +22,10 @@ Project Overview:
 # Data Exploration:
 This is what my DataExploration looks like -
 
-![newplot](https://github.com/anquabkhan/Imdb_sentiment_analysis/blob/main/images/imdb_countplot.png)
-![newplot (1)](https://github.com/anquabkhan/Imdb_sentiment_analysis/blob/main/images/imdb_heatmap.png)
-![newplot (1)](https://github.com/anquabkhan/Imdb_sentiment_analysis/blob/main/images/imdb_histogram.png)
+![newplot](https://github.com/anquabkhan/Yelp_reviews_classifier/blob/main/images/Yelp_reviews_heatmap.png)
+![newplot (1)](https://github.com/anquabkhan/Yelp_reviews_classifier/blob/main/images/Yelp_histogram.png)
+![newplot (1)](https://github.com/anquabkhan/Yelp_reviews_classifier/blob/main/images/Yelp_countplot.png)
+![newplot (1)](https://github.com/anquabkhan/Yelp_reviews_classifier/blob/main/images/Yelp_FaceitGrid.png)
 
 
 
